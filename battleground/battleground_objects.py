@@ -18,7 +18,7 @@ class Space(ActiveObject):
 		self.image = self.empty
 		self.unit = None
 		self.type = type
-		self.player = player # Used to assign player
+		self.player = player # Used to assign playerr
 		self.menupos = self.rect.topright[0] - 2, self.rect.topright[1]
 	
 	def isDead(self):
@@ -161,7 +161,7 @@ class Unit:
 			self.setPCost()
 		self.a_cost = int(math.ceil(self.p_cost / 10.0))
 
-class Player:
+class plar:
 	
 	# Class Constants
 	INITIAL_POINTS = 150

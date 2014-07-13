@@ -1,0 +1,45 @@
+
+[indentation]
+indent_width=4
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=true
+detect_indent_width=true
+indent_mode=3
+
+[project]
+name=Battleground
+base_path=/home/jonny/Projects/Git/Battleground/V2/battleground
+description=
+file_patterns=*.py;
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=191;Python;0;16;0;1;0;/home/jonny/Projects/Git/Battleground/V2/battleground/gamemodel/game.py;0;4
+FILE_NAME_1=42;Python;0;16;0;1;0;/home/jonny/Projects/Git/Battleground/V2/battleground/tests/test_game.py;0;2
+FILE_NAME_2=0;Python;0;16;0;1;0;/home/jonny/Projects/Git/Battleground/V2/battleground/gamemodel/__init__.py;0;4
+
+[VTE]
+last_dir=/home/jonny/Projects/Git/Battleground/V2/battleground/tests
+
+[gproject]
+source_patterns=*.py;
+header_patterns=*.py;
+ignored_dirs_patterns=
+generate_tags=true
+
+[build-menu]
+NoneFT_00_LB=
+NoneFT_00_CM=
+NoneFT_00_WD=
+filetypes=None;Python;
+PythonFT_00_LB=_Unit Test
+PythonFT_00_CM=python -m unittest discover
+PythonFT_00_WD=%p
+PythonFT_01_LB=
+PythonFT_01_CM=
+PythonFT_01_WD=

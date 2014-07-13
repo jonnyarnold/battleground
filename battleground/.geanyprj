@@ -1,0 +1,7 @@
+
+[project]
+name=Battleground
+description=
+run_cmd=
+regenerate=true
+type=Python

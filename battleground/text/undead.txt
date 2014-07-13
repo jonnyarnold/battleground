@@ -1,0 +1,6 @@
+Ghost	20	8	10	8	8
+Zombie	30	10	6	9	4
+Harpy	30	10	8	8	13
+Poltergeist	30	12	7	15	15
+Demon	40	18	10	10	6
+Great Demon	40	18	14	14	10
