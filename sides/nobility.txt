@@ -1,0 +1,6 @@
+Scout	20	5	5	6	13	scout
+Archer	17	12	6	11	7
+Mercenary	24	11	7	7	9	soldier
+Infantry	26	11	13	8	6	soldier
+Knight	24	13	16	10	6
+Great Knight	38	16	18	11	7

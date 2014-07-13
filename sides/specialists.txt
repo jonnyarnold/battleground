@@ -1,0 +1,6 @@
+Grunt	16	8	8	8	7	scout
+Marksman	20	9	6	12	5	soldier
+Armour	34	3	16	3	3
+Bomber	1	18	1	8	1	scout
+Brute	29	12	9	10	10
+Tank	30	17	17	10	7

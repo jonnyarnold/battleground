@@ -1,0 +1,6 @@
+C	32	12	12	11	9	soldier
+IIL	15	10	7	8	8	soldier
+XXCII	35	5	14	5	10	soldier
+XXXIII	1	12	1	8	1	soldier
+CXX	29	15	13	10	13	soldier
+CL	39	17	16	10	10	soldier
